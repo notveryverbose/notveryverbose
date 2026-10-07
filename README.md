@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <h2> Programming Languages </h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<a href="https://app.hackthebox.com/profile/320255" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" alt="hackthebox" width="40" height="40"/> 
+<a href="https://profile.hackthebox.com/profile/019e6ec2-6ba2-7372-9cc9-5bb0b3fe9030?utm_medium=copy_url" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" alt="hackthebox" width="40" height="40"/> 
